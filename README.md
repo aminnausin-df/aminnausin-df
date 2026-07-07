@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align='left' src="https://github.com/aminnausin/snapshot/blob/main/generated/overview.svg#gh-dark-mode-only" />
+<img align='center' src="https://github.com/aminnausin/snapshot/blob/main/generated/languages.svg#gh-dark-mode-only" />
+<img align='left' src="https://github.com/aminnausin/snapshot/blob/main/generated/overview.svg#gh-light-mode-only" />
+<img align='center' src="https://github.com/aminnausin/snapshot/blob/main/generated/languages.svg#gh-light-mode-only" />
